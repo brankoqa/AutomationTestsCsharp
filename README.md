@@ -1,16 +1,16 @@
-# Automation-test-assessment
+# Automation-tests
 **Version 1.0.0**
-This is one example of an automation test
+This is one example of an automation tests
 ---
 ## Create automated tests using Selenium and Page Object Model pattern to perform the following steps
 
-**First task:**
+**First test:**
 1. Open https://www.ultimateqa.com/filling-out-forms/
 2. Fill out the form on the right, but intentionally enter -1 as a result of addition
 3. Submit the form and confirm that the numbers have changed
 4. Close the browser
 
-**Second task:**
+**Second test:**
 1. Open https://www.ultimateqa.com/filling-out-forms/
 2. Fill out the form on the right, fill in the correct number
 3. Submit the form and confirm that a 'Success' message is displayed. 
